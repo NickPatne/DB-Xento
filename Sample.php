@@ -1,25 +1,21 @@
 <?php
 
+class CStudent{
+    function viewData(){
+
 echo " Hello World...!! ";
-echo " fefgv ";
-
-kjhlekg
-ekrgje;f
-elseifef'ef
-r
-g
-r
 
 
+    }
+}
 
+$obj = new CStudent;
 
+echo" Object Created";
 
+$obj -> viewData();
 
-rf
-
-
-
-fr
+echo "Successfully Executed";
 
 
 ?>
