@@ -1,8 +1,10 @@
-##### Xento Team 2018-19
-## User Guide
+## Workshop on Recent Technical Skill and Tools
 
-> `Patne Nikhil Sunil`
+## Presented By:
+ * Abhishek Shinde
+* Nikhil Patne
 
+# User Guide
 
 
 # 1.Visual Studio Code
