@@ -23,6 +23,9 @@ After Installation Open pgAdmin4 to Access Database
 
 ## 3.Git
 * Create Accout on Github from https://github.com
+* Download Git SCM from https://git-scm.com/download/win
+* Download Tortoise Git from https://tortoisegit.org/download/
+> Note:First Install Git after that install Tortoise git
 
 
 
