@@ -7,14 +7,14 @@
 # User Guide
 
 
-# 1.Visual Studio Code
+## 1.Visual Studio Code
 
  #####  Downlaod Visual Studio Code from https://code.visualstudio.com/download
  #####  Download Visual Studio Insider from https://code.visualstudio.com/insiders/ (In case when VS Code not work)
 
+***
 
-
-# 2. PostgreSQL Database
+## 2. PostgreSQL Database
 
 #### Download PostgreSQL from https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 `
@@ -24,11 +24,6 @@ After Installation Open pgAdmin4 to Access Database
 
 
 
-* Enter new name of your choice for Database
-
-```sh
-New Database Name :
-```
 
 `Make sure that you've not entered database name which is already present.`
 > This Five inputs are stored in `pgsqlDB.ini` file automatically for Database connections.
@@ -77,7 +72,6 @@ to log in as an ```Admin```
 
 # Thank You!
  ## Nikhil Patne
- `` Contact:
-    8605358076 ``
-   `` Email : nikhilpatne94@gmail.com ``
+   * Contact: 8605358076 
+   * Email : nikhilpatne94@gmail.com 
   
