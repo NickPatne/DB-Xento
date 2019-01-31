@@ -22,7 +22,7 @@ After Installation Open pgAdmin4 to Access Database
 `
 
 ## 3.Git
-> Create Accout on Github
+* Create Accout on Github from https://github.com
 
 
 
