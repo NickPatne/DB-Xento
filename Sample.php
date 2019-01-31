@@ -1,10 +1,25 @@
 <?php
 
-echo "dlirgheirg0
-dojgroejgoerjgoj4f
-g'pkdpg
-d;lfjg'd
-gldk;gfk
-dgkpdsj"
+echo " Hello World...!! ";
+echo " fefgv ";
+
+kjhlekg
+ekrgje;f
+elseifef'ef
+r
+g
+r
+
+
+
+
+
+
+rf
+
+
+
+fr
+
 
 ?>
