@@ -1,0 +1,170 @@
+
+body
+{
+margin: 0;
+padding: 0;
+background:url(back2.jpg);
+background-size: cover;
+font-family: sans-serif;
+}
+
+.loginBox
+{
+position:absolute;
+top:10%;
+left:42%;
+transform: translate(-50%,-%50);
+width:450px;
+height:1000px;
+
+box-sizing: border-box;
+background: rgba(0,0,0,0.4);
+padding:80px,40px;
+
+}
+
+
+h2
+{
+margin:0;
+padding:0 0 20px;
+color:#FF0000;
+text-align:center;
+
+}
+.loginBox p
+{
+margin:0;
+padding:0;
+
+
+color:#33FF00;
+}
+.loginBox input
+{
+width: 80%;
+color: #ffffff27;
+
+margin-bottom:15px;
+margin-left:45px;
+}
+
+
+.loginBox input[type="text"],
+.loginBox input[type="password"],
+.loginBox input[type="email"]
+ 
+{
+border:none;
+border-bottom:1px solid #fff;
+background:transparent;
+outline:none;
+height:40px;
+color:#fff;
+font-size:16px;
+}
+
+.loginBox input[type="submit"],
+.loginBox input[type="reset"]
+{
+border:none;
+outline:none;
+height:40px;
+color:#fff;
+font-size:16px;
+background:#ff267e;
+cursor:pointer;
+border-radius:30px;
+}
+.loginBox input[type="submit"]:hover
+{
+background:#efed40;
+color:#262626;
+}
+.loginBox input[type="reset"]:hover
+{
+background:#efed40;
+color:#262626;
+}
+
+
+
+
+/*
+.loginBox2
+{
+position: absolute;
+top:30%;
+left:20%;
+transform: translate(-50%,-%50);
+width:300px;
+height:400px;
+
+box-sizing: border-box;
+background: rgba(0,0,0,0.5);
+padding:80px,40px;
+}
+
+h2
+{
+margin:0;
+padding:0 0 20px;
+color: #ff0522;
+text-align:center;
+
+}
+.loginBox2 p
+{
+margin:0;
+padding:0;
+
+color:#33FF00;
+}
+.loginBox2 input
+{
+width: 80%;
+
+margin-bottom:25px;
+margin-left:45px;
+}
+.loginBox2 input[type="text"],
+.loginBox2 input[type="password"]
+{
+border:none;
+border-bottom:1px solid #fff;
+background:transparent;
+outline:none;
+height:40px;
+color:#fff;
+font-size:16px;
+}
+::placeholder
+{
+color: rgba(255,255,255,.5);
+}
+.loginBox2 input[type="submit"]
+{
+border:none;
+outline:none;
+height:40px;
+color:#fff;
+font-size:16px;
+background:#ff267e;
+cursor:pointer;
+border-radius:20px;
+}
+.loginBox2 input[type="submit"]:hover
+{
+background:#efed40;
+color:#262626;
+}
+.loginBox2 a
+{
+color:#FFFFFF;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+}
+
+
+ */

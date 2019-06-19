@@ -1,0 +1,18 @@
+Hello Omkar 
+
+
+Your Credentials are
+
+Email: onkarsangole@gmail.com
+Password: Onkar@123
+
+
+
+Other Infornation
+
+Your First Name is : Omkar 
+Your Last Name is : Sangole
+Your Address is : Akluj Natepute
+Your City is : Baramati
+Your state is : Maharashtra
+Your Country is : India
